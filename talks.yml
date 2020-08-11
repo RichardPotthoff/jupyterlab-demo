@@ -46,5 +46,6 @@ demo:
         demofiles/PythonDataScienceHandbook/notebooks/03.08-Aggregation-and-Grouping.ipynb: notebooks/pandas.ipynb
         "demofiles/bqplot/examples/Basic Plotting/Basic Plotting.ipynb": notebooks/bqplot.ipynb
         "1024px-Hubble_Interacting_Galaxy_AM_0500-620_(2008-04-24).jpg": hubble.jpg
-        notebooks/Lorenz.ipynb: Lorenz.ipynb
-        notebooks/lorenz.py: lorenz.py
+        demofiles/Maldistribution/ntp.y: ntp.py
+        demofiles/Maldistribution/ntp_test.ipynb: ntp_test.ipynb
+        demofiles/octave/index.ipynb: notebooks/octave.ipynb

@@ -33,3 +33,6 @@ dependencies:
 # R Kernel
 - r-ggplot2
 - r-irkernel=1.0
+# Octave
+- octave_kernel
+- octave
