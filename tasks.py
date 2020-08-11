@@ -85,8 +85,8 @@ def demofiles(ctx, clean=False, demofolder=demofolder):
         'QuantEcon/QuantEcon.notebooks',
         'theandygross/TCGA',
         'aymericdamien/TensorFlow-Examples',
-        'bloomberg/bqplot'
-        'RichardPotthoff/Maldistribution'
+        'bloomberg/bqplot',
+        'RichardPotthoff/Maldistribution',
         'binder-examples/octave'
     ]
     for repo in reponames:
