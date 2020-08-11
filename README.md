@@ -1,8 +1,8 @@
 # JupyterLab Demonstration
 
-[![Build Status](https://travis-ci.org/jupyterlab/jupyterlab-demo.svg?branch=master)](https://travis-ci.org/jupyterlab/jupyterlab-demo)
+#[![Build Status](https://travis-ci.org/jupyterlab/jupyterlab-demo.svg?branch=master)](https://travis-ci.org/jupyterlab/jupyterlab-demo)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RichardPotthoff/jupyterlab-demo/master?urlpath=lab)
 
 This repository contains some demonstrations of
 [JupyterLab](https://github.com/jupyter/jupyterlab), the next
