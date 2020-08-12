@@ -86,7 +86,6 @@ def demofiles(ctx, clean=False, demofolder=demofolder):
         'theandygross/TCGA',
         'aymericdamien/TensorFlow-Examples',
         'bloomberg/bqplot',
-        'RichardPotthoff/Maldistribution',
         'binder-examples/octave'
     ]
     for repo in reponames:
